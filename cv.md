@@ -30,3 +30,7 @@
 ## Skills
 
 *Basic knowledge of HTML, CSS, JavaScript, Git, SQL*
+
+## English
+
+*A2 (Pre-intermediate)*
