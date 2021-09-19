@@ -26,3 +26,7 @@
 **Belhard (2015-2016)**
 
 * *JavaScript programming.*
+
+## Skills
+
+*Basic knowledge of HTML, CSS, JavaScript, Git, SQL*
