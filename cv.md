@@ -31,6 +31,17 @@ _I work a job, play sports and love techno music. My goal is my education and gr
 
 _Basic knowledge of HTML, CSS, JavaScript, Git, SQL_
 
+## Code example
+
+```
+let isAnagram = function(test, original) {
+  const findAnagram = function (str) {
+    return str.toLowerCase().replace(/[^\w]/g).split('').sort().join('');
+  }
+  return findAnagram(test) === findAnagram(original);
+};
+```
+
 ## English
 
 _A2 (Pre-intermediate)_
