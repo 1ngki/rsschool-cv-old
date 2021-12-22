@@ -2,35 +2,35 @@
 
 # Kirill Nagorny
 
-*I work a job, play sports and love techno music. My goal is my education and growth. Now I see this in programming. I would be glad to get the opportunity to get an internship.*
+_I work a job, play sports and love techno music. My goal is my education and growth. Now I see this in programming. I would be glad to get the opportunity to get an internship._
 
 ### Contacts
 
-* art.ngki@gmail.com
-* +375 (29) 103 86 86
-* @ngki
+- art.ngki@gmail.com
+- +375 (29) 103 86 86
+- @ngki
 
 ## Education
 
 **Zhodino State Polytechnic College (2007-2009)**
 
-* *Economics and production management in the field of mechanical engineering.*
-* *Coursework in economics and organization manufacture.*
+- _Economics and production management in the field of mechanical engineering._
+- _Coursework in economics and organization manufacture._
 
 **Belarusian institute of law (2009-2014)**
 
-* *Economics and enterprise management.*
+- _Economics and enterprise management._
 
 ### Courses
 
 **Belhard (2015-2016)**
 
-* *JavaScript programming.*
+- _JavaScript programming._
 
 ## Skills
 
-*Basic knowledge of HTML, CSS, JavaScript, Git, SQL*
+_Basic knowledge of HTML, CSS, JavaScript, Git, SQL_
 
 ## English
 
-*A2 (Pre-intermediate)*
+_A2 (Pre-intermediate)_
