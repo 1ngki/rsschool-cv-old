@@ -8,7 +8,7 @@ _I work a job, play sports and love techno music. My goal is my education and gr
 
 - art.ngki@gmail.com
 - +375 (29) 103 86 86
-- @ngki
+- @1ngki
 
 ## Education
 
