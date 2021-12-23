@@ -13,3 +13,10 @@ body {
 figcaption {
   display: none;
 }
+
+pre {
+  font-family: courier, monospace;
+  font-size: 14px;
+  padding-top: 15px;
+  padding-left: 25px;
+}

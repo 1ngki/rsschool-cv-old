@@ -54,6 +54,23 @@
         <p><i>Basic knowledge of HTML, CSS, JavaScript, Git, SQL</i></p>
       </section>
       <section>
+        <h2>Code example</h2>
+        <hr>
+        <p>
+          <pre>
+            <code>
+let isAnagram = function(test, original) {
+  const findAnagram = function (str) {
+    return str.toLowerCase().replace(/[^\w]/g)
+    .split('').sort().join('');
+  }
+  return findAnagram(test) === findAnagram(original);
+};
+            </code>
+          </pre>
+        </p>
+      </section>
+      <section>
         <h2>English</h2>
         <hr>
         <p><i>A2 (Pre-intermediate)</i></p>
