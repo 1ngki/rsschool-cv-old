@@ -10,6 +10,15 @@ body {
   max-width: 500px;
 }
 
+header h1 {
+  text-align: center;
+}
+
+figure {
+  display: flex;
+  justify-content: center;
+}
+
 figcaption {
   display: none;
 }
